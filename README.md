@@ -6,7 +6,7 @@ I am a software engineer, passionate about developing good tools and learning th
 - 🌱 I’m currently learning more about Next.js and thus use the Vercel platform for projects.
 - 🔭 I am currently working on my business site as a freelancer, <a href="https://www.design4allagency.com/"> Design4All Agency</a>
 
-## Find me around the web 🌎: <a href="https://github.com/Enyelber"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/Enyelber"><img align="left" width="150" height="150" src="https://github.com/Enyelber/Enyelber/blob/master/animation.gif"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/enyelberaltubejimenez/">LinkedIn</a> 💼
 - 💬 Ask me about on <a href="https://twitter.com/enyelber">Twitter</a> 💼 or <a href="https://www.instagram.com/enyelber/">Instagram</a>
 
